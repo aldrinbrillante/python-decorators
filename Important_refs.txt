@@ -2,3 +2,7 @@
 
 5 reasons you need to learn to write Python decorators:
 https://www.oreilly.com/content/5-reasons-you-need-to-learn-to-write-python-decorators/
+
+
+Primer on Python Decorators:
+https://realpython.com/primer-on-python-decorators/
